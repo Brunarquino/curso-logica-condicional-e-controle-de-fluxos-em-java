@@ -18,6 +18,16 @@
 
 ### Operadores Lógicos
 
+“São símbolos especiais quais são capazes de realizar comparações lógicas entre operandos lógicos ou expressões e, em seguida, retornar um resultado”
+
+| Tipo | Símbolo | Terminologia | 
+|--- |--- |--- |
+| Conjunção | && | and(e) |
+| Disjunção: | Duas Barras | or(ou)  |
+| Disjunção Exclusiva | ^ | Xor |
+| Negação: | ! | inverção |
+
+
 [utilização de Operadores Lógicos]()
 
 ### Controle de fluxo
